@@ -1,0 +1,34 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(192, 192, 192, 0.527);
+}
+.container div{
+    margin: 0px 200px;
+}
+.container img {
+    margin-top: 20px;
+    
+}
+.container p{
+    position: absolute;
+    width:20px;
+    height: 20px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(8, 148, 27);
+    border-radius: 50%;
+    top: 5px;
+    right: -10px;
+    text-align: center;
+    
+}
+.shopdiv {
+    position: relative;
+}
+.container span p {
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+}

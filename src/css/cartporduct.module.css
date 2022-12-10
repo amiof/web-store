@@ -1,0 +1,34 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+    width: 1400;
+}
+#total {
+    width: 400px ;
+    height:200px;
+    border-radius: 20px;
+    
+    background-color: aliceblue;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.397);
+    margin: 100px auto;
+}
+#total span {
+    text-align: center;
+    margin: 20px;
+    font-weight: bold;
+}
+.button {
+    display: flex;
+    justify-content: space-between;
+    
+}
+button {
+    padding: 10px;
+    background-color: rgb(3, 192, 28);
+    color: white;
+    font-size: 0.8rem;
+    border: none;
+    border-radius: 20px;
+    margin: 0px 20px;
+    
+}

@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    padding: 25px 0px;
+    flex-wrap: wrap;
+    flex: 0 0 80%;
+    /* overflow-x:scroll; */
+    
+    margin: auto;
+    max-width: 1400px;
+    padding: 0 15px;
+    margin: 0 auto;
+    /* border: 1px solid black; */
+    
+    
+}
+
+
+
+
